@@ -3,3 +3,4 @@
 
 欢迎使用CPU性能检测工具
 
+hello from Sunxen~
